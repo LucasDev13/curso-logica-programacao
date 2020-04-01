@@ -1,2 +1,2 @@
 # curso-logica-programacao
-Repositório do curso de lógica de programação da Alga Works
+Repositorio do curso de logica de programacao da Alga Works
